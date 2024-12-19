@@ -18,10 +18,10 @@
 
 ## Official Community
 
-**Telegram Community:** [@KuttCoin](https://t.me/KuttCoin_mining)
-**Twitter/X Community:** [@Kutt_Coin](https://x.com/Kutt_Coin)
+- **Telegram Community:** [@KuttCoin](https://t.me/KuttCoin_mining)
+- **Twitter/X Community:** [@Kutt_Coin](https://x.com/Kutt_Coin)
 
 ## CMC
 
-**Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/pt/bsc/pools/0x56859c462f7a6a5324a882c7096dae71fceb2b13)
-**CoinmarketCap DexScan:** [CoinmarketCap](https://coinmarketcap.com/dexscan/bsc/0x56859c462f7a6a5324a882c7096dae71fceb2b13/)
+- **Coingecko Terminal:** [Coingecko](https://www.geckoterminal.com/pt/bsc/pools/0x56859c462f7a6a5324a882c7096dae71fceb2b13)
+- **CoinmarketCap DexScan:** [CoinmarketCap](https://coinmarketcap.com/dexscan/bsc/0x56859c462f7a6a5324a882c7096dae71fceb2b13/)
